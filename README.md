@@ -75,9 +75,7 @@ Company: Microsoft
  
  
 Conclusion
+
 Analyzing each graph and its resourcefulness, the SVR algorithm with the "rbf" kernel was the most successful in making predictions in short-term (2 and 5 days) and long-term (252 days). In general, all three different classifiers acted very well, not always giving the exact price of the action, but the tendency of each company, either positive or negative.
 In fact, the use of this classifiers will not make anyone rich overnight, but it can help in the stock-picking process both in the short term and in the long run.
 Speaking personally, this project taught me how to treat the dataset in a way that is more coherent and accurate to collect predictions with better quality. Scaling the data also helps you to have more accurate calculations. Moreover, when we have an additional knowledge of the data area we are working on it makes it easier to understand what to look for in a huge dataset. As I like to invest in stocks and follow this market, I found it fascinating to be able to forecast prices of stocks that I am interested in buying.
-
-Repository: To see the code in Python with the classifiers, please follow the link: 
-
